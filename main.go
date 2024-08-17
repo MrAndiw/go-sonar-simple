@@ -1,12 +1,16 @@
 package main
 
-import "fmt"
-
-// Add takes two integers and returns their sum.
-func Add(a, b int) int {
-	return a + b
-}
+import (
+	"fmt"
+	"tutor/go-sonar-simple/pkg"
+)
 
 func main() {
-	fmt.Println(Add(3, 5)) // Example usage, should output 8
+	module := pkg.NewUserModule()
+	user, err := module.GetUser("mrandiiw@gmail.com")
+	if err != nil {
+		fmt.Printf("error when calling GetUser: %v", err)
+	}
+
+	fmt.Println(user)
 }
