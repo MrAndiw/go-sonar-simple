@@ -3,7 +3,8 @@
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=MrAndiw_go-sonar-simple&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=MrAndiw_go-sonar-simple)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=MrAndiw_go-sonar-simple&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=MrAndiw_go-sonar-simple)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=MrAndiw_go-sonar-simple&metric=coverage)](https://sonarcloud.io/summary/new_code?id=MrAndiw_go-sonar-simple)
-[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=MrAndiw_go-sonar-simple)](https://sonarcloud.io/summary/new_code?id=MrAndiw_go-sonar-simple)
+<br>
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-black.svg)](https://sonarcloud.io/summary/new_code?id=MrAndiw_go-sonar-simple)
 
 # Go Sonar Simple
 
