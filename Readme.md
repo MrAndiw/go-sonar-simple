@@ -33,7 +33,6 @@ This is a simple Go project that includes unit tests and static code analysis us
 ├── pkg
 │   └── user_test.go                # pkg user
 │   └── user.go                     # Unit test for user.go
-├── main.go                         # Main Go file
 ├── sonar-project.properties        # Configuration for SonarScanner
 ├── go.mod                          # Go module file
 └── go.sum                          # Go dependencies
