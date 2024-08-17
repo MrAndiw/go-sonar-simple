@@ -12,7 +12,7 @@ This is a simple Go project that includes unit tests and static code analysis us
 
 ## Features
 
-- Simple Go function (`Add`)
+- Simple Go function (`GetUser`, `GetProfile`)
 - Unit tests for the function
 - Continuous Integration with GitHub Actions
 - Code analysis and coverage using SonarScanner
